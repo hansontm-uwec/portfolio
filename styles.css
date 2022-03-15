@@ -1,0 +1,9 @@
+body{
+    margin:0;
+    background-color: black;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2{
+    color:rgb(202, 202, 54);
+}
